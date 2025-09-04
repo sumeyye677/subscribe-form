@@ -1,11 +1,30 @@
 {
-    "coupons": [
-        "TEST20",
-        "WELCOME15", 
-        "SUMEYYE25",
-        "DENIZ10",
-        "SALE10",
-        "GITHUB25",
-        "ONLINE30"
-    ]
+  "coupons": [
+    "TEST20",
+    "WELCOME15", 
+    "SUMEYYE25",
+    "DENIZ10",
+    "SALE10",
+    "GITHUB25",
+    "ONLINE30",
+    "NEWUSER20",
+    "FIRSTBUY15",
+    "DISCOUNT40",
+    "SHOP25",
+    "SPRING20",
+    "SUMMER15",
+    "WINTER30",
+    "AUTUMN10",
+    "FRIYAY25",
+    "WEEKEND20",
+    "FLASH15",
+    "LIMITED30",
+    "VIP40",
+    "LOYAL20",
+    "FREESHIP10",
+    "STUDENT25",
+    "CYBERMONDAY45",
+    "HOLIDAY35",
+    "WELCOME2025"
+  ]
 }
